@@ -1,0 +1,30 @@
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Koniec wsparcia dla Windows 10 – Co dalej? | 10eos.info</title>
+  <meta name="description" content="Windows 10 traci wsparcie 14 października 2025. Zobacz, co możesz zrobić: aktualizacja do Windows 11, przejście na LTSC lub Linux." />
+  <meta name="keywords" content="Windows 10, koniec wsparcia, aktualizacja, Windows 11, LTSC, Linux, migracja" />
+  <meta name="author" content="RemoraTeam" />
+  <meta name="robots" content="index, follow" />
+
+  <!-- Open Graph (Facebook, LinkedIn) -->
+  <meta property="og:title" content="Koniec wsparcia dla Windows 10 – Co dalej?" />
+  <meta property="og:description" content="Dowiedz się, co zrobić po zakończeniu wsparcia Windows 10: aktualizacja, LTSC lub Linux." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://10eos.info/" />
+  <meta property="og:image" content="https://10eos.info/images/og-image.png" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Koniec wsparcia dla Windows 10 – Co dalej?" />
+  <meta name="twitter:description" content="Windows 10 traci wsparcie w 2025 roku. Sprawdź swoje opcje: Windows 11, LTSC, Linux." />
+  <meta name="twitter:image" content="https://10eos.info/images/og-image.png" />
+  <meta name="twitter:site" content="@remorateam" />
+
+  <!-- Favicon -->
+  <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+
+  <!-- Canonical -->
+  <link rel="canonical" href="https://10eos.info/" />
+</head>
